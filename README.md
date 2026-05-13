@@ -75,7 +75,3 @@ statistical-arbitrage-pairs-trading/
   scripts/
     stat_arb_main.py
     ridge_basket_extension.py
-
-  results/
-    figures/
-    tables/
