@@ -260,8 +260,6 @@ statistical-arbitrage-pairs-trading/
       v26_full_kalman_em_parameters_by_fold.csv
       v26_full_pair_metrics.csv
 
-    figures/
-      *.png
 ```
 
 ## Reproducing the Results
